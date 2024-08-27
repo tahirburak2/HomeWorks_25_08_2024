@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberMethods_Soru3", "NumberMethods_Soru3\NumberMethods_Soru3.csproj", "{69C71F76-A3E1-4134-B01E-0E91C7136BCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69C71F76-A3E1-4134-B01E-0E91C7136BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C71F76-A3E1-4134-B01E-0E91C7136BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C71F76-A3E1-4134-B01E-0E91C7136BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C71F76-A3E1-4134-B01E-0E91C7136BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

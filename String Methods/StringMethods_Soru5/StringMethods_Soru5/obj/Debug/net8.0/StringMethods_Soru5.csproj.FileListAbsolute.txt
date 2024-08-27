@@ -1,0 +1,14 @@
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/String Methods/StringMethods_Soru5/StringMethods_Soru5/bin/Debug/net8.0/StringMethods_Soru5
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/String Methods/StringMethods_Soru5/StringMethods_Soru5/bin/Debug/net8.0/StringMethods_Soru5.deps.json
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/String Methods/StringMethods_Soru5/StringMethods_Soru5/bin/Debug/net8.0/StringMethods_Soru5.runtimeconfig.json
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/String Methods/StringMethods_Soru5/StringMethods_Soru5/bin/Debug/net8.0/StringMethods_Soru5.dll
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/String Methods/StringMethods_Soru5/StringMethods_Soru5/bin/Debug/net8.0/StringMethods_Soru5.pdb
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/String Methods/StringMethods_Soru5/StringMethods_Soru5/obj/Debug/net8.0/StringMethods_Soru5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/String Methods/StringMethods_Soru5/StringMethods_Soru5/obj/Debug/net8.0/StringMethods_Soru5.AssemblyInfoInputs.cache
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/String Methods/StringMethods_Soru5/StringMethods_Soru5/obj/Debug/net8.0/StringMethods_Soru5.AssemblyInfo.cs
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/String Methods/StringMethods_Soru5/StringMethods_Soru5/obj/Debug/net8.0/StringMethods_Soru5.csproj.CoreCompileInputs.cache
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/String Methods/StringMethods_Soru5/StringMethods_Soru5/obj/Debug/net8.0/StringMethods_Soru5.dll
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/String Methods/StringMethods_Soru5/StringMethods_Soru5/obj/Debug/net8.0/refint/StringMethods_Soru5.dll
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/String Methods/StringMethods_Soru5/StringMethods_Soru5/obj/Debug/net8.0/StringMethods_Soru5.pdb
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/String Methods/StringMethods_Soru5/StringMethods_Soru5/obj/Debug/net8.0/StringMethods_Soru5.genruntimeconfig.cache
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/String Methods/StringMethods_Soru5/StringMethods_Soru5/obj/Debug/net8.0/ref/StringMethods_Soru5.dll

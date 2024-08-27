@@ -1,0 +1,14 @@
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Number Methods/NumberMethods_Soru04/NumberMethods_Soru04/bin/Debug/net8.0/NumberMethods_Soru04
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Number Methods/NumberMethods_Soru04/NumberMethods_Soru04/bin/Debug/net8.0/NumberMethods_Soru04.deps.json
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Number Methods/NumberMethods_Soru04/NumberMethods_Soru04/bin/Debug/net8.0/NumberMethods_Soru04.runtimeconfig.json
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Number Methods/NumberMethods_Soru04/NumberMethods_Soru04/bin/Debug/net8.0/NumberMethods_Soru04.dll
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Number Methods/NumberMethods_Soru04/NumberMethods_Soru04/bin/Debug/net8.0/NumberMethods_Soru04.pdb
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Number Methods/NumberMethods_Soru04/NumberMethods_Soru04/obj/Debug/net8.0/NumberMethods_Soru04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Number Methods/NumberMethods_Soru04/NumberMethods_Soru04/obj/Debug/net8.0/NumberMethods_Soru04.AssemblyInfoInputs.cache
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Number Methods/NumberMethods_Soru04/NumberMethods_Soru04/obj/Debug/net8.0/NumberMethods_Soru04.AssemblyInfo.cs
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Number Methods/NumberMethods_Soru04/NumberMethods_Soru04/obj/Debug/net8.0/NumberMethods_Soru04.csproj.CoreCompileInputs.cache
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Number Methods/NumberMethods_Soru04/NumberMethods_Soru04/obj/Debug/net8.0/NumberMethods_Soru04.dll
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Number Methods/NumberMethods_Soru04/NumberMethods_Soru04/obj/Debug/net8.0/refint/NumberMethods_Soru04.dll
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Number Methods/NumberMethods_Soru04/NumberMethods_Soru04/obj/Debug/net8.0/NumberMethods_Soru04.pdb
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Number Methods/NumberMethods_Soru04/NumberMethods_Soru04/obj/Debug/net8.0/NumberMethods_Soru04.genruntimeconfig.cache
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Number Methods/NumberMethods_Soru04/NumberMethods_Soru04/obj/Debug/net8.0/ref/NumberMethods_Soru04.dll
