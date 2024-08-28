@@ -1,0 +1,15 @@
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Date Methods/DateTimes_Soru8/DateTimes_Soru8/bin/Debug/net8.0/DateTimes_Soru8
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Date Methods/DateTimes_Soru8/DateTimes_Soru8/bin/Debug/net8.0/DateTimes_Soru8.deps.json
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Date Methods/DateTimes_Soru8/DateTimes_Soru8/bin/Debug/net8.0/DateTimes_Soru8.runtimeconfig.json
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Date Methods/DateTimes_Soru8/DateTimes_Soru8/bin/Debug/net8.0/DateTimes_Soru8.dll
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Date Methods/DateTimes_Soru8/DateTimes_Soru8/bin/Debug/net8.0/DateTimes_Soru8.pdb
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Date Methods/DateTimes_Soru8/DateTimes_Soru8/obj/Debug/net8.0/DateTimes_Soru8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Date Methods/DateTimes_Soru8/DateTimes_Soru8/obj/Debug/net8.0/DateTimes_Soru8.AssemblyInfoInputs.cache
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Date Methods/DateTimes_Soru8/DateTimes_Soru8/obj/Debug/net8.0/DateTimes_Soru8.AssemblyInfo.cs
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Date Methods/DateTimes_Soru8/DateTimes_Soru8/obj/Debug/net8.0/DateTimes_Soru8.csproj.CoreCompileInputs.cache
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Date Methods/DateTimes_Soru8/DateTimes_Soru8/obj/Debug/net8.0/DateTimes_Soru8.sourcelink.json
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Date Methods/DateTimes_Soru8/DateTimes_Soru8/obj/Debug/net8.0/DateTimes_Soru8.dll
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Date Methods/DateTimes_Soru8/DateTimes_Soru8/obj/Debug/net8.0/refint/DateTimes_Soru8.dll
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Date Methods/DateTimes_Soru8/DateTimes_Soru8/obj/Debug/net8.0/DateTimes_Soru8.pdb
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Date Methods/DateTimes_Soru8/DateTimes_Soru8/obj/Debug/net8.0/DateTimes_Soru8.genruntimeconfig.cache
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Date Methods/DateTimes_Soru8/DateTimes_Soru8/obj/Debug/net8.0/ref/DateTimes_Soru8.dll

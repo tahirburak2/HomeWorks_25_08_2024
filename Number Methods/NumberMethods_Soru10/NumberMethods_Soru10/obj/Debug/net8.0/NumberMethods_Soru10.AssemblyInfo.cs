@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NumberMethods_Soru10")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9313f523f7ebdf620c35ca06e6aa5abb1aebef95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c13a95d5b526b21c111a8071fe17b1a641cf9e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("NumberMethods_Soru10")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NumberMethods_Soru10")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

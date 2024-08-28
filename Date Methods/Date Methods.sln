@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimes_Soru1", "DateTimes_Soru1\DateTimes_Soru1.csproj", "{20DF3442-2B24-4CC9-9F97-1BD5D406BAA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20DF3442-2B24-4CC9-9F97-1BD5D406BAA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DF3442-2B24-4CC9-9F97-1BD5D406BAA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DF3442-2B24-4CC9-9F97-1BD5D406BAA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DF3442-2B24-4CC9-9F97-1BD5D406BAA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

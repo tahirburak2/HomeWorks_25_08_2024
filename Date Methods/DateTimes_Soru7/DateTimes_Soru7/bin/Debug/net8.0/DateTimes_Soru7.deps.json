@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DateTimes_Soru7/1.0.0": {
+        "runtime": {
+          "DateTimes_Soru7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DateTimes_Soru7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
