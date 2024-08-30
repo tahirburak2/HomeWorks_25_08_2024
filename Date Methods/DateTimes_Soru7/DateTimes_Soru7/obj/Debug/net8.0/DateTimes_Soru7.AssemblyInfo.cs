@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DateTimes_Soru7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c13a95d5b526b21c111a8071fe17b1a641cf9e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3ac83a96fb66f29157346f638f70567c4e17433")]
 [assembly: System.Reflection.AssemblyProductAttribute("DateTimes_Soru7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DateTimes_Soru7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

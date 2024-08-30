@@ -1,0 +1,15 @@
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Else If Methods/ElseIf_Soru7/ElseIf_Soru7/bin/Debug/net8.0/ElseIf_Soru7
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Else If Methods/ElseIf_Soru7/ElseIf_Soru7/bin/Debug/net8.0/ElseIf_Soru7.deps.json
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Else If Methods/ElseIf_Soru7/ElseIf_Soru7/bin/Debug/net8.0/ElseIf_Soru7.runtimeconfig.json
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Else If Methods/ElseIf_Soru7/ElseIf_Soru7/bin/Debug/net8.0/ElseIf_Soru7.dll
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Else If Methods/ElseIf_Soru7/ElseIf_Soru7/bin/Debug/net8.0/ElseIf_Soru7.pdb
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Else If Methods/ElseIf_Soru7/ElseIf_Soru7/obj/Debug/net8.0/ElseIf_Soru7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Else If Methods/ElseIf_Soru7/ElseIf_Soru7/obj/Debug/net8.0/ElseIf_Soru7.AssemblyInfoInputs.cache
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Else If Methods/ElseIf_Soru7/ElseIf_Soru7/obj/Debug/net8.0/ElseIf_Soru7.AssemblyInfo.cs
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Else If Methods/ElseIf_Soru7/ElseIf_Soru7/obj/Debug/net8.0/ElseIf_Soru7.csproj.CoreCompileInputs.cache
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Else If Methods/ElseIf_Soru7/ElseIf_Soru7/obj/Debug/net8.0/ElseIf_Soru7.sourcelink.json
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Else If Methods/ElseIf_Soru7/ElseIf_Soru7/obj/Debug/net8.0/ElseIf_Soru7.dll
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Else If Methods/ElseIf_Soru7/ElseIf_Soru7/obj/Debug/net8.0/refint/ElseIf_Soru7.dll
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Else If Methods/ElseIf_Soru7/ElseIf_Soru7/obj/Debug/net8.0/ElseIf_Soru7.pdb
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Else If Methods/ElseIf_Soru7/ElseIf_Soru7/obj/Debug/net8.0/ElseIf_Soru7.genruntimeconfig.cache
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/Else If Methods/ElseIf_Soru7/ElseIf_Soru7/obj/Debug/net8.0/ref/ElseIf_Soru7.dll

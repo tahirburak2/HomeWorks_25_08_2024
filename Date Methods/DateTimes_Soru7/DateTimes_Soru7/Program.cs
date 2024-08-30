@@ -4,11 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        System.Console.Write("geçerli bir tarih giriniz: ");
-        string girilenTarih = Console.ReadLine();
-long longTarih=long.Parse(girilenTarih);
-        DateTime tarih = new DateTime(longTarih);
-        System.Console.WriteLine(tarih);
+        string tarih = "04.03.2005";
+        DateTime tarih2 = DateTime.Parse(tarih);
+        System.Console.WriteLine(tarih2);
 
     }
 }
