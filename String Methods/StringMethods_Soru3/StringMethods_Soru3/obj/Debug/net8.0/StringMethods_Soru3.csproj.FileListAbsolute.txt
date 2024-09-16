@@ -12,3 +12,4 @@
 /Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/String Methods/StringMethods_Soru3/StringMethods_Soru3/obj/Debug/net8.0/StringMethods_Soru3.pdb
 /Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/String Methods/StringMethods_Soru3/StringMethods_Soru3/obj/Debug/net8.0/StringMethods_Soru3.genruntimeconfig.cache
 /Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/String Methods/StringMethods_Soru3/StringMethods_Soru3/obj/Debug/net8.0/ref/StringMethods_Soru3.dll
+/Users/tahirburakavar/Documents/github/HomeWorks_25_08_2024/String Methods/StringMethods_Soru3/StringMethods_Soru3/obj/Debug/net8.0/StringMethods_Soru3.sourcelink.json

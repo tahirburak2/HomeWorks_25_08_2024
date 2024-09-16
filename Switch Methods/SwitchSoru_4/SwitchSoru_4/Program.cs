@@ -8,7 +8,7 @@ class Program
         string harf = Console.ReadLine();
         switch (harf)
         {
-            case "a":
+            case "a,e,i,ı,o,ö,":
             System.Console.WriteLine("Yazdığınız harf seslidir.");
             break;
             case "e":
